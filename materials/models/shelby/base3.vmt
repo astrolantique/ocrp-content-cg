@@ -1,0 +1,4 @@
+"VertexLitGeneric" { "$basetexture" "models/shelby/base3" 
+"$model" 1 
+"$nocull" 1
+}

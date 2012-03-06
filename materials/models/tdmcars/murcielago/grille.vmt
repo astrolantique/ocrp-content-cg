@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/murcielago/grille"
+	"$blendtintbybasealpha" 1
+}

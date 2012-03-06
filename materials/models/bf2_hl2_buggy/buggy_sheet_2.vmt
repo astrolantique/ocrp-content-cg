@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "models\bf2_hl2_buggy\buggy_sheet_2"
+    "$surfaceprop" "metal"
+}

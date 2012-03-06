@@ -1,0 +1,7 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/humans/pe_jackt/breen_sheeb"
+        "$bumpmap" "models/humans/pe_jackt/breen_sheet_normal"
+        "$halflambert" 1
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_defilibrator\Paddle.vtf"
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponent" "3"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.0 0.2 0.1]"
+}

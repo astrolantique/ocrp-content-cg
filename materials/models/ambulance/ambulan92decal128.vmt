@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "models/ambulance/ambulan92decal128"
+	"$translucent" 1
+}

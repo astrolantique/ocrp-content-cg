@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/gtaiv/vehicles/yankee/yankee_signs3"
+	"$decal" "1"
+	"$translucent" "1"
+}

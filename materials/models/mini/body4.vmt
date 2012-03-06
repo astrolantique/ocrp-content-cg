@@ -1,0 +1,9 @@
+"VertexLitGeneric" { "$basetexture" "models/lambo/body4" 
+"$model" 1 
+"$nocull" 1
+"$envmap" "env_cubemap"
+"$normalmap" "models/lambo/defref"
+"$normalmapalphaenvmapmask" 1
+"$envmaptint" "[ .40 .40 .40 ]"
+"$envmapsaturation" 0.1
+}

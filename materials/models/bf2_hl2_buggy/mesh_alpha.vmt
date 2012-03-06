@@ -1,0 +1,13 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$basetexture" "models\bf2_hl2_buggy\mesh_alpha"
+	"$no_fullbright" 1
+//	"$translucent" 1
+	"$alphatest" 1
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"$nodecal" 1
+	"$nolod" 1
+}

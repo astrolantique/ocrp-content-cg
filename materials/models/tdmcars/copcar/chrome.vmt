@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/copcar/chrome"
+	"$envmap" "env_cubemap"
+}
