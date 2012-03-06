@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"ocrp/rain/drop"
+	"$vertexcolor" 1 
+	"$vertexalpha" 1 
+	"$translucent" 1
+	
+	"$bumpmap"			"ocrp/rain/drop_normal"
+}

@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"models/aoc_trees/pine_leaves_snowy"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$model" "1"
+
+}
