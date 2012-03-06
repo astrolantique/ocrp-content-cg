@@ -1,0 +1,304 @@
+// Custom vehicle sound definitions, don't mess with
+// these unless you know what you're doing.
+
+// Caterham
+
+
+"Caterham_engine_idle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"vehicles/atv_idle_loop1.wav"
+	"wave"		"vehicles/Caterham/Idle.wav"
+}
+
+"Caterham_engine_null"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	"wave"		"common/null.wav"
+}
+
+"Caterham_engine_start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	//"wave"		"vehicles/atv_start_loop1.wav"
+	"wave"		"vehicles/Caterham/Start.wav"
+}
+
+"Caterham_engine_stop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"common/null.wav"
+	"wave"		"vehicles/Caterham/stop.wav"
+}
+
+"Caterham_rev"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"98,105"
+	"wave"		"vehicles/Caterham/Rev_short_loop.wav"
+
+//	"rndwave"
+//	{
+//		"wave"		"vehicles/Caterham/Rev_short_loop1.wav"
+//		"wave"		"vehicles/Caterham/Rev_short_loop1.wav"
+//	}
+}
+
+"Caterham_reverse"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/Caterham/Firstgear_rev_loop.wav"
+}
+
+
+"Caterham_firstgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"100"
+	//"wave"		"vehicles/v8/v8_firstgear_rev_loop2.wav"
+	"wave"		"vehicles/Caterham/First.wav"
+}
+
+"Caterham_secondgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_secondgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/Caterham/Second.wav"
+}
+
+"Caterham_thirdgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_thirdgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/Caterham/Third.wav"
+}
+
+"Caterham_fourthgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	"wave"		"vehicles/Caterham/Fourth_cruise_loop.wav"
+}
+
+"Caterham_firstgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/Caterham/First.wav"
+}
+"Caterham_secondgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/Caterham/Second.wav"
+}
+"Caterham_thirdgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/Caterham/Third.wav"
+}
+
+"Caterham_fourthgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/Caterham/Fourth_cruise_loop.wav"
+}
+
+"Caterham_downshift_to_2nd"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_2nd_loop1.wav"
+	"wave"		"vehicles/v8/first_rev.wav"
+	//"wave"		"vehicles/Caterham/Idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Caterham_downshift_to_1st"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_1st_loop1.wav"
+	"wave"		"vehicles/Caterham/Throttle_off_fast.wav"
+	//"wave"		"vehicles/Caterham/Idle.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Caterham_throttleoff_slowspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	"wave"		"vehicles/Caterham/Throttle_off_slow.wav"
+	//"wave"		"vehicles/Caterham/Idle.wav"
+}
+
+"Caterham_throttleoff_fastspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_throttleoff_loop1.wav"
+	"wave"		"vehicles/Caterham/Throttle_off_fast.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Caterham_skid_lowfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_lowfriction.wav"
+	"wave"		"vehicles/v8/skid_lowfriction.wav"
+}
+
+"Caterham_skid_normalfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_normalfriction.wav"
+	"wave"		"vehicles/v8/skid_normalfriction.wav"
+}
+
+"Caterham_skid_highfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_highfriction.wav"
+	"wave"		"vehicles/v8/skid_highfriction.wav"
+}
+
+"Caterham_impact_heavy"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_heavy1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy4.wav"
+	}
+}
+
+"Caterham_impact_medium"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_medium1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium4.wav"
+	}
+}
+
+"Caterham_rollover"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_rollover1.wav"
+		"wave"	"vehicles/v8/vehicle_rollover2.wav"
+	}
+}
+
+
+"Caterham_turbo_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_loop3.wav"
+	"wave"		"vehicles/Caterham/Turbo_on_loop.wav"
+}
+
+"Caterham_turbo_off"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_off1.wav"
+	"wave"		"vehicles/v8/v8_turbo_off.wav"
+}
+
+"Caterham_start_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_no_gas_start.wav"
+}
+
+"Caterham_stall_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_off.wav"
+}
