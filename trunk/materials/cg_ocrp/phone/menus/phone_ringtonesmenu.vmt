@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp/phone/menus/phone_ringtonesmenu"
+	"$translucent" 1
+}

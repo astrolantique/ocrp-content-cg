@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp/phone/backgrounds/phone_cubes_bg"
+	"$translucent" 1
+}
