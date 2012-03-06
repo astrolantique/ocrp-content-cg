@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+
+	$envmapcontrast 1
+        $basetexture "models/ambulance/ambulan92interior128"
+}

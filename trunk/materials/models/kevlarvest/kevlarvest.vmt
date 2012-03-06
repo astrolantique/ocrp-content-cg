@@ -1,0 +1,22 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\kevlarvest\kevlarvest"
+	"$bumpmap" "models\kevlarvest\kevlarvest_normal"
+	"$nocull" "1"
+$envmaptint "[0.01 0.01 0.01]"
+
+	"$phong" "1"
+	"$phongexponent" "500"
+	"$phongboost" "0.15"	
+	"$phongfresnelranges"	"[0.5 1 2]"
+	"$ENVMAPFRESNELRANGES" "[ 1 3 6]"
+	"$phongalbedotint" "1"	
+	"$phongmaskscale" "1.0"
+	"$USEPHONGCOLORTEXTURE" 1
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.15"
+}

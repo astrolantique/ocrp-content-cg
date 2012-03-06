@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles/vehicle_generic_carbon"
+	"$bumpmap" "models\gtaiv\vehicles/vehicle_generic_carbon_normal"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\oracle\oracle_badges"
+	"$translucent" 1
+	"$bumpmap" "models\gtaiv\vehicles\oracle\oracle_badges_n"
+}

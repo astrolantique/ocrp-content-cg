@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\n_stick\palka"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\n_stick\palka_ref"
+}

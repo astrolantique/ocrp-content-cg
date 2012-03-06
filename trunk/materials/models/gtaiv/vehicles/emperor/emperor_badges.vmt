@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\emperor\emperor_badges"
+	"$translucent" 1
+	"$bumpmap" "models\gtaiv\vehicles\emperor\emperor_badges_n"
+}

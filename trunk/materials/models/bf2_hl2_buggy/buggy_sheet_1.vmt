@@ -1,0 +1,5 @@
+"vertexlitgeneric" {
+    "$basetexture" "models\bf2_hl2_buggy\buggy_sheet_1"
+    "$bumpmap" "models\bf2_hl2_buggy\buggy_sheet_1_normal"
+    "$surfaceprop" "metal"
+}

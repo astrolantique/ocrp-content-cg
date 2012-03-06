@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\diamond\vehicle_generic_glasswindows3t"
+	"$translucent" 1
+
+}

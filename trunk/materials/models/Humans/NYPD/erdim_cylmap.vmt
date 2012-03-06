@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/humans\NYPD/erdim_cylmap"
+	"$halflambert" 1
+}

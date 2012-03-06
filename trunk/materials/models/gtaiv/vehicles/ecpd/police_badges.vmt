@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\ecpd\police_badges"
+	"$translucent" 1
+	"$bumpmap" "models\gtaiv\vehicles\ecpd\police_badges_n"
+	"$nocull" "1"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/shared/tirea0"
+	"$bumpmap" "models/tdmcars/shared/tirea0_bump"
+	"$blendtintbybasealpha" 1
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+}

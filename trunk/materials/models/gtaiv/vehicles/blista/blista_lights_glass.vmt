@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\blista\blista_lights_glass"
+	"$translucent" 1
+}

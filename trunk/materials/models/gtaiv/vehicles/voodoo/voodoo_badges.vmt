@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\vehicles\voodoo\voodoo_badges"
+	"$translucent" 1
+	"$bumpmap" "models\gtaiv\vehicles\voodoo\voodoo_badges_n"
+}

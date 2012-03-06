@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	 "$basetexture" "models/kiosk/Glass"
+	 "$envmap" "env_cubemap"
+	 "$envmaptint" "[ 1 1 1 ]"
+	 "$normalmapalphaenvmapmask" "1"
+}
