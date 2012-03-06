@@ -1,0 +1,5 @@
+"vertexLitGeneric"
+{
+        $basetexture "rubicon/rubicon3"
+        $model 1
+}
