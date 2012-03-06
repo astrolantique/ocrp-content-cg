@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/OCRP/OCRP_HP_Bar"
+	"$translucent" 1
+
+}
