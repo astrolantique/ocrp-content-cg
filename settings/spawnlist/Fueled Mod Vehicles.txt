@@ -1,0 +1,37 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"Fueled mod vehicles"
+	}
+	"Entries"
+	{
+		"1"		"models//shelby/shelby.mdl"
+		"2"		"models//shelby/shelby_bonnet_gib.mdl"
+		"3"		"models//shelby/shelby_boot_gib.mdl"
+		"4"		"models//shelby/shelby_ldoor_gib.mdl"
+		"5"		"models//shelby/shelby_rdoor_gib.mdl"
+		"6"		"models//shelby/shelby_shell.mdl"
+		"7"		"models//shelby/shelby_wheel.mdl"
+		"8"		"models//caterham/caterham.mdl"
+		"9"		"models//caterham/caterham_bonnet_gib.mdl"
+		"10"		"models//caterham/caterham_boot_gib.mdl"
+		"11"		"models//caterham/caterham_shell.mdl"
+		"12"		"models//caterham/caterham_wheel.mdl"
+		"13"		"models//lambo/lambo.mdl"
+		"14"		"models//lambo/lambo_bonnet_gib.mdl"
+		"15"		"models//lambo/lambo_boot_gib.mdl"
+		"16"		"models//lambo/lambo_ldoor_gib.mdl"
+		"17"		"models//lambo/lambo_rdoor_gib.mdl"
+		"18"		"models//lambo/lambo_shell.mdl"
+		"19"		"models//lambo/lambo_wheel.mdl"
+		"20"		"models//mini/mini.mdl"
+		"21"		"models//mini/mini_bonnet_gib.mdl"
+		"22"		"models//mini/mini_boot_gib.mdl"
+		"23"		"models//mini/mini_ldoor_gib.mdl"
+		"24"		"models//mini/mini_rdoor_gib.mdl"
+		"25"		"models//mini/mini_shell.mdl"
+		"26"		"models//mini/mini_wheel.mdl"
+	}
+}
