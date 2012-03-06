@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "corvette/occar"
+	"$bumpmap" "corvette/occar_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .15 .15 .15 ]"
+	"$nodiffusebumplighting" 1
+}
+
