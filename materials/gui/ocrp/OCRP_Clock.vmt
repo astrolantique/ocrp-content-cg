@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/OCRP/OCRP_Clock"
+	"$translucent" 1
+
+}
