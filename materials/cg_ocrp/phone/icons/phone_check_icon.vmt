@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp/phone/icons/phone_check_icon"
+	"$translucent" 1
+}
