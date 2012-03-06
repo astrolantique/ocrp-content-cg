@@ -1,0 +1,304 @@
+// Custom vehicle sound definitions, don't mess with
+// these unless you know what you're doing.
+
+// Shelby
+
+
+"Shelby_engine_idle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"vehicles/atv_idle_loop1.wav"
+	"wave"		"vehicles/shelby/shelby_idle_loop1.wav"
+}
+
+"Shelby_engine_null"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	"wave"		"common/null.wav"
+}
+
+"Shelby_engine_start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	//"wave"		"vehicles/atv_start_loop1.wav"
+	"wave"		"vehicles/shelby/shelby_start_loop1.wav"
+}
+
+"Shelby_engine_stop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+
+	//"wave"		"common/null.wav"
+	"wave"		"vehicles/shelby/shelby_stop1.wav"
+}
+
+"Shelby_rev"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"98,105"
+	"wave"		"vehicles/shelby/shelby_rev_short_loop1.wav"
+
+//	"rndwave"
+//	{
+//		"wave"		"vehicles/shelby/shelby_rev_short_loop1.wav"
+//		"wave"		"vehicles/shelby/shelby_rev_short_loop1.wav"
+//	}
+}
+
+"Shelby_reverse"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/shelby/shelby_firstgear_rev_loop1.wav"
+}
+
+
+"Shelby_firstgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"100"
+	//"wave"		"vehicles/v8/v8_firstgear_rev_loop2.wav"
+	"wave"		"vehicles/shelby/First.wav"
+}
+
+"Shelby_secondgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_secondgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/shelby/Second.wav"
+}
+
+"Shelby_thirdgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_thirdgear_to_fullthrottle_loop1.wav"
+	//"wave"		"vehicles/v8/v8_secondgear_loop1.wav"
+	"wave"		"vehicles/shelby/Third.wav"
+}
+
+"Shelby_fourthgear"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	"wave"		"vehicles/shelby/Fourth_cruise_loop2.wav"
+}
+
+"Shelby_firstgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/shelby/First.wav"
+}
+"Shelby_secondgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/shelby/Second.wav"
+}
+"Shelby_thirdgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/shelby/Third.wav"
+}
+
+"Shelby_fourthgear_noshift"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"105,105"
+	// NOTE: This needs to be a looping sound
+	"wave"		"vehicles/shelby/Fourth_cruise_loop2.wav"
+}
+
+"Shelby_downshift_to_2nd"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_2nd_loop1.wav"
+	"wave"		"vehicles/v8/first_rev.wav"
+	//"wave"		"vehicles/shelby/shelby_idle_loop1.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Shelby_downshift_to_1st"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_downshift_to_1st_loop1.wav"
+	"wave"		"vehicles/shelby/shelby_throttle_off_fast_loop1.wav"
+	//"wave"		"vehicles/shelby/shelby_idle_loop1.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Shelby_throttleoff_slowspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	"wave"		"vehicles/shelby/shelby_throttle_off_slow_loop2.wav"
+	//"wave"		"vehicles/shelby/shelby_idle_loop1.wav"
+}
+
+"Shelby_throttleoff_fastspeed"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,105"
+	//"wave"		"vehicles/atv_throttleoff_loop1.wav"
+	"wave"		"vehicles/shelby/shelby_throttle_off_fast_loop1.wav"
+	//"wave"		"common/null.wav"
+}
+
+"Shelby_skid_lowfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_lowfriction.wav"
+	"wave"		"vehicles/v8/skid_lowfriction.wav"
+}
+
+"Shelby_skid_normalfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_normalfriction.wav"
+	"wave"		"vehicles/v8/skid_normalfriction.wav"
+}
+
+"Shelby_skid_highfriction"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/atv_skid_highfriction.wav"
+	"wave"		"vehicles/v8/skid_highfriction.wav"
+}
+
+"Shelby_impact_heavy"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_heavy1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_heavy4.wav"
+	}
+}
+
+"Shelby_impact_medium"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_impact_medium1.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium2.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium3.wav"
+		"wave"	"vehicles/v8/vehicle_impact_medium4.wav"
+	}
+}
+
+"Shelby_rollover"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"95,110"
+	"rndwave"
+	{
+		"wave"	"vehicles/v8/vehicle_rollover1.wav"
+		"wave"	"vehicles/v8/vehicle_rollover2.wav"
+	}
+}
+
+
+"Shelby_turbo_on"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_loop3.wav"
+	"wave"		"vehicles/shelby/shelby_turbo_on_loop1.wav"
+}
+
+"Shelby_turbo_off"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"90,110"
+	//"wave"		"vehicles/vehicle_turbo_off1.wav"
+	"wave"		"vehicles/v8/v8_turbo_off.wav"
+}
+
+"Shelby_start_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_no_gas_start.wav"
+}
+
+"Shelby_stall_in_water"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"100"
+	"wave"			"vehicles/jetski/jetski_off.wav"
+}
