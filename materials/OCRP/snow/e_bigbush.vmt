@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"models/msc/e_bigbush2"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$model" "1"
+
+}

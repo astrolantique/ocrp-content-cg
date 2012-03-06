@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"ocrp/rain/splash"
+	"$vertexcolor" 1 
+	"$vertexalpha" 1 
+	
+	"$bumpmap"			"ocrp/rain/splash_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "ocrp/rain/splash_mask"
+	"$translucent" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.5
+	"$envmaptint" "[ .5 .5 .75]"
+}
