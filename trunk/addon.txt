@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"OCRP Content Pack"
+	"version"			"1.5"
+	"up_date"			"2012"
+	"author_name"			""
+	"author_email"			""
+	"author_url"			"www.catalyst-gaming.net"
+	"info"				"Content from the OCRP gamemode."
+	"override"			"1"
+}
