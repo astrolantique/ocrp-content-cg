@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Female/Group01/femalx6_Body"
-
-	"$model" "1"
-			"$bumpmap" "models/Humans/Female/Group01/femalx6_Body_normal"
-}

@@ -1,6 +1,0 @@
-"vertexlitgeneric" {
-    "$basetexture" "models\Cheeezy\Disco\disco"
-    "$surfaceprop" "metal"
-    "$envmap" "env_cubemap"
-    "$model" "1"    
-}

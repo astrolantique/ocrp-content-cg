@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/sickness/markiv/linbod6"
-	"$surfaceprop" "Metal"
-	"$nocull" 1
-}

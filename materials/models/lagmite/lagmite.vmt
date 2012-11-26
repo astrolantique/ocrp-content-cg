@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/lagmite/lagmite"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models/lagmite/lagmite_mask"
-}

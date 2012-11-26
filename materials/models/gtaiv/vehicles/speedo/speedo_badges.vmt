@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\gtaiv/vehicles/speedo/speedo_badges"
-	"$translucent" 1
-	"$bumpmap" "models\gtaiv/vehicles/speedo/speedo_badges_n"
-}

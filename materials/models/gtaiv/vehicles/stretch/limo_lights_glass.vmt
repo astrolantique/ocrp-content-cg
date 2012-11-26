@@ -1,6 +1,0 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "models/gtaiv/vehicles/stretch/limo_lights_glass"
-	
-	"$translucent" "1"
-}
