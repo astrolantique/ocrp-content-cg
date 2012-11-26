@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/chrome"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/AC/Vase"
+	"$nocull" 1
+	"$envmap" "env_cubemap"
+	 $envmapmask  "splayn/RP/AC/lack"
+}

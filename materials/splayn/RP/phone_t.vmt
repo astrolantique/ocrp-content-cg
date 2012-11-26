@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/Phone_t"
+	"$envmap" "env_cubemap"
+	 $envmapmask  "splayn/RP/Ph_lack"
+}

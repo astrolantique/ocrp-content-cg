@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/OF/desk_tex"
+	"$nocull" 1
+}

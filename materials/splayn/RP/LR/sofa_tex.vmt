@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/LR/sofa_tex"
+	"$nocull" 1
+}
