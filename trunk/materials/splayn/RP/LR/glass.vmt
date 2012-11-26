@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/LR/Glass"
+	"$translucent" 1
+}

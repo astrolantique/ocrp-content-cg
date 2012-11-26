@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/OF/Desk_metal"
+	"$envmap" "env_cubemap"
+	 $envmapmask  "splayn/RP/OF/lack"
+}

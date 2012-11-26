@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/RP/LR/sessel_tex"
+	"$nocull" 1
+}

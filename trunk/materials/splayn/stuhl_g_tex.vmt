@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "splayn/Stuhl_g_tex"
+	"$envmap" "env_cubemap"
+	 "$envmapmask"  "splayn/Stuhl_g_env"
+}
