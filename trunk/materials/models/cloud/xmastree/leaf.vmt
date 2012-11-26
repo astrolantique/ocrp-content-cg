@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$alphatest" 1
-	"$basetexture" "models/cloud/xmastree/leaf"
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}

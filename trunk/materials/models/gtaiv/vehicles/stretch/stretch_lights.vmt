@@ -1,9 +1,0 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "models/gtaiv/vehicles/stretch/stretch_lights"
-	"$halflambert" 1
-	"$nodecal" "1"
-	"$model" "1"
-
-
-}

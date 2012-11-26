@@ -1,4 +1,0 @@
-"VertexLitGeneric" { "$basetexture" "models/caterham/black" 
-"$model" 1 
-"$nocull" 1
-}

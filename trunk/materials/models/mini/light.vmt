@@ -1,4 +1,0 @@
-"VertexLitGeneric" { "$basetexture" "models/mini/light" 
-"$model" 1 
-"$nocull" 1
-}

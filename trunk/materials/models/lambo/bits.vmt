@@ -1,4 +1,0 @@
-"VertexLitGeneric" { "$basetexture" "models/lambo/bits" 
-"$model" 1 
-"$nocull" 1
-}

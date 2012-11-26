@@ -1,5 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/tdmcars/copcar/metal_lightbar"
-	"$bumpmap" "models/tdmcars/copcar/metal_lightbar_nm"
-}

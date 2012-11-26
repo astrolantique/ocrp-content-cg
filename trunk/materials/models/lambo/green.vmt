@@ -1,4 +1,0 @@
-"VertexLitGeneric" { "$basetexture" "models/lambo/green" 
-"$model" 1 
-"$nocull" 1
-}
