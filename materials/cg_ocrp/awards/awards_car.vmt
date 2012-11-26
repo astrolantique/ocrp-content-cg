@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp/awards/awards_car"
+	"$translucent" 1
+}
