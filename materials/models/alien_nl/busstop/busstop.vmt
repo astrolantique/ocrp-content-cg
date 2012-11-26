@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\alien_nl\busstop/busstop"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.22 .21 .16]"
+}

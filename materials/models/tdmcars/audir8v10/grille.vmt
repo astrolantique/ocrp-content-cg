@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/audir8v10/grille"
+	"$blendtintbybasealpha" 1
+}

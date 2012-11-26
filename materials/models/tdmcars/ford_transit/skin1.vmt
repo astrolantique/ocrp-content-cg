@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/ford_transit/skin1"
+	"$bumpmap" "models/tdmcars/shared/skin_nm"
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "8" 
+	"$phongfresnelranges" "[.05 .5 0]" 
+	"$phongexponent" 10
+	"$rimlight" "1"
+	"$rimlightexponent" "70"
+	"$rimlightboost" "0.3"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsaturation" "1.0"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapFresnel" "1"
+
+}

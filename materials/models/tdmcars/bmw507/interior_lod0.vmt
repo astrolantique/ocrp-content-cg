@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/bmw507/interior_lod0"
+	"$bumpmap" "models/tdmcars/shared/glass_nm"
+	"$blendtintbybasealpha" 1
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "0.1" 
+	"$phongfresnelranges" "[.3 .5 1]" 
+	"$phongexponent" 150
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" ".1"
+	"$rimmask" "1"
+}

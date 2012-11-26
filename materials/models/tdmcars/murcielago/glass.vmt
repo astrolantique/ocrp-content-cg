@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/murcielago/glass"
+	"$bumpmap"    "models/tdmcars/murcielago/glass_nm"
+	"$translucent" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost" "3"
+	"$phongfresnelranges" "[.3 .5 1]"
+	"$phongexponent" "50"
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "1"
+	"$rimmask" "1"
+	//"$basealphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	//"$envmapfrensel" "1"
+	//"$envmapfrenselranges" "[0 0.5 1]"
+	"$envmaptint" "[1 1 1]"
+	//"$envmapcontrast" "1"
+	//"$envmapsaturation" "0.5"
+	"$normalmapalphaenvmapmask" 1
+
+}
