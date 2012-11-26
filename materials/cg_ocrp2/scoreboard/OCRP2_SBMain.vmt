@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp2/scoreboard/OCRP2_SBMain"
+	"$translucent" 1
+}

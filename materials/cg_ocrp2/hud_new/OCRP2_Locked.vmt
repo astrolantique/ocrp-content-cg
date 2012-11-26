@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp2/hud_new/OCRP2_Locked"
+	"$translucent" 1
+}

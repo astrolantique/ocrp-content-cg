@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp2/ocrp2_radio_change"
+	"$translucent" 1
+}

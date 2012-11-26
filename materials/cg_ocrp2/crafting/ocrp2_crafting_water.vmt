@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cg_ocrp2/crafting/OCRP2_Crafting_Water"
+	"$translucent" 1
+}
