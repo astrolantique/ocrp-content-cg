@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kiosk/phoneScreen_texture"
+	"$envmap" "env_cubemap"
+	 "$envmaptint" "[ 1 1 1 ]"
+	 "$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\alien_nl\busstop/glass"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.22 .21 .16]"
+ 	"$additive" "1"
+  	"$translucent" 1
+}
