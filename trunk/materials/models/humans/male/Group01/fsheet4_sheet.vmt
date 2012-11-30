@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/Humans/male/Group01/fsheet4_sheet"
+	"$halflambert" 	"1"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 			"models/Humans/male/Group01/fsheet1_sheet"
+	"$bumpmap"					"models/Humans/male/Group01/fsheet1_normal"
+	
+	"$phong" 					"1"
+	"$phongexponenttexture" 	"models/Humans/male/Group01/phong_base"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.02 0.1 0.3]"
+	"$halflambert" 				"1"
+}
