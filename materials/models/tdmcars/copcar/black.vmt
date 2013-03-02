@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/copcar/black"
+	"$blendtintbybasealpha" 1
+	"$surfaceprop" metal
+	"$model" 1
+
+}

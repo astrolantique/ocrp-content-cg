@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tdmcars/copcar/lights"
+	"$bumpmap" "models/tdmcars/copcar/light_nm"
+	"$translucent" 1
+}
