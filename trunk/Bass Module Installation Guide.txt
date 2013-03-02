@@ -1,0 +1,7 @@
+Welcome to the installation guide of Bass Module!
+
+Everything has been made extremely simple for you to install. You must simply run the OCRP2_Install_Bass.bat file, to install the bass module.
+Everything will automatically be installed to the correct locations.
+
+When you've installed this you must restart Garry's Mod.
+Now enjoy the music in Orange Cosmos RP 2!
