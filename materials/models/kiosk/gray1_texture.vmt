@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/kiosk/gray1_texture"
-	"$envmap" "env_cubemap"
-	 "$envmaptint" "[ .5 .5 .5 ]"
-	 "$normalmapalphaenvmapmask" "1"
-}
