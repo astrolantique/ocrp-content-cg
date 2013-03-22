@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\humans\suitsfem/skirt"
-	"$bumpmap" "models/Humans/suitsfem/skirt_n"
-// 	"$blendtintbybasealpha" 1
-	"$halflambert" 1
-}
