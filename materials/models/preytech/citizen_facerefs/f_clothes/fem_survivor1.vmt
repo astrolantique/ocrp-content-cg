@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/preytech/citizen_facerefs/f_clothes/Fem_Survivor1"
+	"$halflambert" 1
+}

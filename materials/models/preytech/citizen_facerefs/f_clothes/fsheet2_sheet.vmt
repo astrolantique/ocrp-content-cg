@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 			"models/preytech/citizen_facerefs/f_clothes/fsheet2_sheet"
+	"$bumpmap"					"models/preytech/citizen_facerefs/f_clothes/fsheet2_normal"
+	
+	"$phong" 					"1"
+	"$phongexponenttexture" 	"models/preytech/citizen_facerefs/f_clothes/phong_base"
+	"$phongboost"				"1"
+	"$phongfresnelranges"		"[0.02 0.1 0.3]"
+	"$halflambert" 				"1"
+}
