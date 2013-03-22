@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\preytech\citizen_faceref\citizen_refugee_green"
+                "$bumpmap" "models\preytech\citizen_faceref\citizen_sheet_normal_refugee"
+	"$halflambert" 1
+	"$nocull" 1
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "80"							
+	"$rimlightboost" "0.1"
+}
