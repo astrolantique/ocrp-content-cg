@@ -1,0 +1,5 @@
+"VertexLitGeneric" { "$basetexture" "models/mini/bits" 
+"$model" 1 
+"$nocull" 1
+
+}

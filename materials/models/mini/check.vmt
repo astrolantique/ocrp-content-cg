@@ -1,0 +1,5 @@
+"VertexLitGeneric" { "$basetexture" "models/mini/check" 
+"$color" "[255 0 0]"
+"$model" 1 
+"$nocull" 1
+}
