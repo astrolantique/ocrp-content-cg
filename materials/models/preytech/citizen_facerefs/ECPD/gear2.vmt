@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/preytech/citizen_facerefs/ECPD/gear2"
-	"$halflambert" 1
-}
