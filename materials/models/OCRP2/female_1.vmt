@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+$baseTexture "models\OCRP2\female_1"
+$bumpmap "models\OCRP2\face_n"
+
+$phong 1
+$phongboost ".4"
+$phongexponent 10
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+$halflambert 0
+$diffuseexp "1.5"
+}

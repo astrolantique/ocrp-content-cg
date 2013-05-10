@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$baseTexture "models\OCRP2\mouth"
+$bumpmap "models\OCRP2\mouth_n"
+
+
+}
