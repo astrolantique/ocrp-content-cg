@@ -1,6 +1,0 @@
-vertexlitgeneric
-{
-
-$baseTexture "models\OCRP2\shoes_2"
-$bumpmap "models\OCRP2/shoes_2_n"
-}
