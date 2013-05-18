@@ -1,0 +1,6 @@
+
+vertexlitgeneric
+{
+$baseTexture "models\OCRP2/ct_swat_head"
+$bumpMap "models\OCRP2/ct_swat_head_normal"
+}

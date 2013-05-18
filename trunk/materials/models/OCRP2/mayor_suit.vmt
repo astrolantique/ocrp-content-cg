@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\OCRP2/mayor_suit"
+	"$bumpmap" "models\OCRP2/suit_sheet_nml"	
+	"$phong" "0"
+	"$phongexponent" "4"
+	"$phongboost" "0.05"
+	"$phongfresnelranges" "[0.1 0.2 0.5]"
+	
+	// "$rimlight" "0"
+	// "$rimlightexponent" "10"
+	// "$rimlightboost" "0.5"
+}
