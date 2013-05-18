@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+
+$baseTexture "models\OCRP2\shoes_2"
+$baseTexture "models\OCRP2\shoes_2_n"
+}
