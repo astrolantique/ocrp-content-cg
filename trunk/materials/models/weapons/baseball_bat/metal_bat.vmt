@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/weapons/baseball_bat/Metal_bat"
+	//"$bumpmap" "models/weapons/baseball_bat/Metal_bat_normal"
+	//"$normalmapalphaenvmapmask" 1
+	"$envmapmask" "models/weapons/baseball_bat/envalpha"
+	"$envmap" "env_cubemap" 
+	//"$envmapsaturation" "[.2 .1 1]" 
+	"$model" 1
+}
